@@ -1,2 +1,2 @@
 # handwritten-digit-recognition-cnn
-A deep learning project to recognize handwritten digits using CNN
+"This project uses CNN-based deep learning to recognize handwritten digits from images accurately"
